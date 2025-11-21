@@ -1,3 +1,6 @@
+Downlaod your diabetes dataset from sources dont just copy paste else you will get nothing to understand the working of the program
+
+
 1)Importing the Libraries
 
 import pandas as pd
@@ -119,4 +122,5 @@ Standardize this new data (just like original data).
 The model predicts: 0 for not diabetic, 1 for diabetic.
 
 Prints friendly message with the result.
+
 }
